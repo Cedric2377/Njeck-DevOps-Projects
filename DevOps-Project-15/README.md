@@ -267,12 +267,4 @@ And pay the amount .
 
 ![](https://miro.medium.com/v2/resize:fit:736/1*i6Z6hvwUNgiAlpxOYFRfPw.png)
 
-***Congratulations… Your Order has been Successfully placed.. :)***
 
-# Thank you
-
-Thank you for taking the time to work on this tutorial/labs. Let me know what you thought!
-
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
-
-### Ensure to follow me on GitHub. Please star/share this repository

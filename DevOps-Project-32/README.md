@@ -297,10 +297,3 @@ ii. Through the container deployed on the same instance.
 ![](https://miro.medium.com/v2/resize:fit:700/1*m4QlHuuSb3rSQwgoTeqk9g.png)
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*ftzbIzjJIC_nSsDjmzMf6A.png)
-
-## **Author by:**
-
-![s](https://imgur.com/2j6Aoyl.png)
-
-> [!NOTE]
-> **Join Our** [Telegram Community](https://t.me/prodevopsguy) // [Follow me](https://github.com/NotHarshhaa) **for more DevOps & Cloud content.**

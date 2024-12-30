@@ -916,11 +916,3 @@ kubectl get svc #use anyone
 - ![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/0bfdfbd0-927e-4513-96bd-5029571fc8e3)
 
 ## Step 14: Terminate instances
-
-# Thank you
-
-Thank you for taking the time to work on this tutorial/labs. Let me know what you thought!
-
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
-
-Ensure to follow me on GitHub. Please star/share this repository!

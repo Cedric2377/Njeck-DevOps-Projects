@@ -507,15 +507,3 @@ If the build is successful we should see our new docker image and docker contain
 Also, we if access our new dockerized app from our browser on port 8087, the result should be something like this:
 
 ![aws](https://miro.medium.com/v2/resize:fit:750/format:webp/1*s6KDOzNqAUgYPenBojBnqQ.png)
-
-### Conclusion
-
-**In this blog, we learned how to automate the build and deploy process using GitHub, Jenkins, Docker, and AWS EC2.**
-
-**Happy Learning!**
-
-# Hit the Star! ⭐
-
-***If you are planning to use this repo for learning, please hit the star. Thanks!**_
-
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)

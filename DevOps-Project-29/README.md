@@ -11,6 +11,7 @@
 - Step 4: Set Up Self-Hosted Agent for the Pipeline  
 - Step 5: Write a CI Pipeline Script for Each Microservice
 
+
 ## **Stage Two: Continuous Delivery**  
 
 - Step 1: Create an Azure Managed Kubernetes Cluster (AKS)  
@@ -965,10 +966,3 @@ To check the votes, run the following commands . We can check for the `votes cou
 ![](https://miro.medium.com/v2/resize:fit:700/1*2eaL5kjNkLcNTz2vS7gixA.png)
 
 ---
-
-## **Author by:**
-
-![](https://imgur.com/2j6Aoyl.png)
-
-> [!NOTE]
-> **Join Our** [Telegram Community](https://t.me/prodevopsguy) // [Follow me](https://github.com/NotHarshhaa) **for more DevOps & Cloud content.**
